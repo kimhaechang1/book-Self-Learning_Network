@@ -21,6 +21,10 @@
         <td><a href="docs/네트워크 계층 모델.md">네트워크 계층 모델</a></td>
         <td>OSI 7Layer, TCP/IP 모델(4Layer, 5Layer), 프로토콜, IP 패킷, 캡슐화 & 역 캡슐화</td>
     </tr>
+    <tr>
+        <td><a href="docs/이더넷 프레임.md">이더넷 프레임</a></td>
+        <td>물리계층, 데이터링크 계층, 데이터 프레임, MAC 주소, FCS, CRC 체크</td>
+    </tr>
 </table>
 
 
