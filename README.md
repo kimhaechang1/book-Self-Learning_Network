@@ -25,6 +25,10 @@
         <td><a href="docs/이더넷 프레임.md">이더넷 프레임</a></td>
         <td>물리계층, 데이터링크 계층, 데이터 프레임, MAC 주소, FCS, CRC 체크</td>
     </tr>
+    <tr>
+        <td><a href="docs/허브와 스위치.md">허브와 스위치</a></td>
+        <td>물리계층, 데이터링크 계층, 허브, CSMA/CD, 전이중모드, 반이중모드, MAC 주소, VLAN</td>
+    </tr>
 </table>
 
 
