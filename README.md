@@ -21,6 +21,19 @@
         <td><a href="docs/네트워크 계층 모델.md">네트워크 계층 모델</a></td>
         <td>OSI 7Layer, TCP/IP 모델(4Layer, 5Layer), 프로토콜, IP 패킷, 캡슐화 & 역 캡슐화</td>
     </tr>
+</table>
+
+## Chapter 02 물리 계층과 데이터링크 계층
+
+<table>
+    <tr>
+        <th>
+            제목
+        </th>
+        <th>
+            주요 키워드
+        </th>
+    </tr>
     <tr>
         <td><a href="docs/이더넷 프레임.md">이더넷 프레임</a></td>
         <td>물리계층, 데이터링크 계층, 데이터 프레임, MAC 주소, FCS, CRC 체크</td>
@@ -31,4 +44,19 @@
     </tr>
 </table>
 
+## Chapter 03 네트워크 계층
 
+<table>
+    <tr>
+        <th>
+            제목
+        </th>
+        <th>
+            주요 키워드
+        </th>
+    </tr>
+    <tr>
+        <td><a href="docs/인터넷 프로토콜.md">인터넷 프로토콜</a></td>
+        <td>네트워크 계층, 라우터, IPv4, IPv6, IP단편화, IP주소지정, MTU, IP Header, ARP</td>
+    </tr>
+</table>
