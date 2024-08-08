@@ -59,4 +59,8 @@
         <td><a href="docs/인터넷 프로토콜.md">인터넷 프로토콜</a></td>
         <td>네트워크 계층, 라우터, IPv4, IPv6, IP단편화, IP주소지정, MTU, IP Header, ARP</td>
     </tr>
+    <tr>
+        <td><a href="docs/IP주소할당과 DHCP.md">IP주소할당과 DHCP</a></td>
+        <td>IP, DHCP, 클래스 풀, 클래스 리스, 서브넷 마스크, 네트워크 주소, 호스트 주소</td>
+    </tr>
 </table>
