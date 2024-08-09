@@ -63,4 +63,8 @@
         <td><a href="docs/IP주소할당과 DHCP.md">IP주소할당과 DHCP</a></td>
         <td>IP, DHCP, 클래스 풀, 클래스 리스, 서브넷 마스크, 네트워크 주소, 호스트 주소</td>
     </tr>
+    <tr>
+        <td><a href="docs/라우팅.md">라우팅</a></td>
+        <td>라우팅 테이블, 정적 라우팅, 동적 라우팅, AS, IGP, RIP, OSPF, EGP, BGP</td>
+    </tr>
 </table>
