@@ -107,6 +107,6 @@
     </tr>
     <tr>
         <td><a href="docs/DNS와 자원.md">DNS와 자원</a></td>
-        <td>DNS(Domain Name System), DNS 서버, 네임 서버, 재귀적 질의, 반복적 질의</td>
+        <td>DNS(Domain Name System), DNS 서버, 네임 서버, 루트 도메인, TLD 도메인, 로컬 네임서버, 루트 네임서버, TLD 네임서버, 책임 네임서버, 재귀적 질의, 반복적 질의, URI, URL</td>
     </tr>
 </table>
