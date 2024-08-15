@@ -93,3 +93,20 @@
         <td>RTT(Round Trip Time), 파이프라이닝 Stop-and-Wait ARQ, Go-Back-N ARQ, Selective repeat ARQ, Sliding Window, 송신버퍼, 수신버퍼, 혼잡 윈도우, 느린시작, 느린시작 임계치, 혼잡 회피, 빠른 회복</td>
     </tr>
 </table>
+
+## Chapter 04 응용 계층
+
+<table>
+    <tr>
+        <th>
+            제목
+        </th>
+        <th>
+            주요 키워드
+        </th>
+    </tr>
+    <tr>
+        <td><a href="docs/DNS와 자원.md">DNS와 자원</a></td>
+        <td>DNS(Domain Name System), DNS 서버, 네임 서버, 재귀적 질의, 반복적 질의</td>
+    </tr>
+</table>
