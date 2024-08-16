@@ -113,4 +113,8 @@
         <td><a href="docs/HTTP.md">HTTP</a></td>
         <td>요청-응답 기반 프로토콜, 미디어 독립적, Stateless, 지속연결 기능 지원, HTTP Method, HTTP Response status code</td>
     </tr>
+    <tr>
+        <td><a href="docs/HTTP 주요 헤더와 캐시.md">HTTP 주요 헤더와 캐시</a></td>
+        <td>WWW-Authenticate, Authorization, 브라우저 캐시, If-Modified-Since, Not-Modified(304), Etag, If-None-Match. Content negotiation</td>
+    </tr>
 </table>
