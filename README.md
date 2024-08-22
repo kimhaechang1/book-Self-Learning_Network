@@ -94,7 +94,7 @@
     </tr>
 </table>
 
-## Chapter 04 응용 계층
+## Chapter 05 응용 계층
 
 <table>
     <tr>
@@ -118,3 +118,21 @@
         <td>WWW-Authenticate, Authorization, 브라우저 캐시, If-Modified-Since, Not-Modified(304), Etag, If-None-Match. Content negotiation</td>
     </tr>
 </table>
+
+## Chapter 07 네트워크 심화
+
+<table>
+    <tr>
+        <th>
+            제목
+        </th>
+        <th>
+            주요 키워드
+        </th>
+    </tr>
+    <tr>
+        <td><a href="docs/안정성을 위한 기술.md">안정성을 위한 기술</a></td>
+        <td>안정성, 가용성, 고가용성(High Availiablity), SPoF(Single Point of Failure), 이중화, 다중화, 로드밸런스, 라운드로빈, 최소연결, 포워드 프록시, 리버스 프록시</td>
+    </tr>
+</table>
+
