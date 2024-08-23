@@ -134,5 +134,9 @@
         <td><a href="docs/안정성을 위한 기술.md">안정성을 위한 기술</a></td>
         <td>안정성, 가용성, 고가용성(High Availiablity), SPoF(Single Point of Failure), 이중화, 다중화, 로드밸런스, 라운드로빈, 최소연결, 포워드 프록시, 리버스 프록시</td>
     </tr>
+    <tr>
+        <td><a href="docs/안전성을 위한 기술.md">안전성을 위한 기술</a></td>
+        <td>대칭키 암호화, 비 대칭키 암호화, HTTPS, TLS HandShake, CA(Certification Authority)</td>
+    </tr>
 </table>
 
